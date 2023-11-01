@@ -1,0 +1,174 @@
+Total School  Total Students  Total Budget  Average maths score  Average reading score  % passing maths  % passing reading  % overall passing
+0            15           39170      24649428            70.338192              69.980138        86.078632          84.426857          72.808272
+   School Type Total Students Total School Budget Per Student Budget Average maths score Average reading score %Passing Maths %Passing Reading % Overall Passing
+school_name         
+Bailey High School Government 4976 $3,124,928.00 $628.00 72.352894 71.008842 91.639871 84.426857 80.084405
+Cabrera High School Independent 1858 $1,081,356.00 $582.00 71.657158 71.359526 90.850377 84.426857 80.785791
+Figueroa High School Government 2949 $1,884,411.00 $639.00 68.698542 69.077993 81.654798 84.426857 67.650051
+Ford High School Government 2739 $1,763,916.00 $644.00 69.091274 69.572472 82.438846 84.426857 67.469880
+Griffin High School Independent 1468 $917,500.00 $625.00 71.788147 71.245232 91.212534 84.426857 81.335150
+Hernandez High School Government 4635 $3,022,020.00 $652.00 68.874865 69.186408 80.949299 84.426857 66.364617
+Holden High School Independent 427 $248,087.00 $581.00 72.583138 71.660422 89.929742 84.426857 78.922717
+Huang High School Government 2917 $1,910,635.00 $655.00 68.935207 68.910525 81.693521 84.426857 66.712376
+Johnson High School Government 4761 $3,094,650.00 $650.00 68.843100 69.039277 82.062592 84.426857 67.191766
+Pena High School Independent 962 $585,858.00 $609.00 72.088358 71.613306 91.683992 84.426857 79.209979
+Rodriguez High School Government 3999 $2,547,363.00 $637.00 72.047762 70.935984 90.797699 84.426857 79.419855
+Shelton High School Independent 1761 $1,056,600.00 $600.00 72.034072 70.257808 91.538898 84.426857 78.875639
+Thomas High School Independent 1635 $1,043,130.00 $638.00 69.581651 69.768807 83.853211 84.426857 69.480122
+Wilson High School Independent 2283 $1,319,574.00 $578.00 69.170828 68.876916 82.785808 84.426857 67.455103
+Wright High School Independent 1800 $1,049,400.00 $583.00 72.047222 70.969444 91.777778 84.426857 79.722222
+ School Type Total Students Total School Budget Per Student Budget Average maths score Average reading score %Passing Maths %Passing Reading % Overall Passing
+school_name         
+Griffin High School Independent 1468 $917,500.00 $625.00 71.788147 71.245232 91.212534 84.426857 81.335150
+Cabrera High School Independent 1858 $1,081,356.00 $582.00 71.657158 71.359526 90.850377 84.426857 80.785791
+Bailey High School Government 4976 $3,124,928.00 $628.00 72.352894 71.008842 91.639871 84.426857 80.084405
+Wright High School Independent 1800 $1,049,400.00 $583.00 72.047222 70.969444 91.777778 84.426857 79.722222
+Rodriguez High School Government 3999 $2,547,363.00 $637.00 72.047762 70.935984 90.797699 84.426857 79.419855
+ School Type Total Students Total School Budget Per Student Budget Average maths score Average reading score %Passing Maths %Passing Reading % Overall Passing
+school_name         
+Hernandez High School Government 4635 $3,022,020.00 $652.00 68.874865 69.186408 80.949299 84.426857 66.364617
+Huang High School Government 2917 $1,910,635.00 $655.00 68.935207 68.910525 81.693521 84.426857 66.712376
+Johnson High School Government 4761 $3,094,650.00 $650.00 68.843100 69.039277 82.062592 84.426857 67.191766
+Wilson High School Independent 2283 $1,319,574.00 $578.00 69.170828 68.876916 82.785808 84.426857 67.455103
+Ford High School Government 2739 $1,763,916.00 $644.00 69.091274 69.572472 82.438846 84.426857 67.469880
+                            maths_score
+school_name           year             
+Bailey High School    9       72.493827
+                      10      71.897498
+                      11      72.374900
+                      12      72.675097
+Cabrera High School   9       72.321970
+                      10      72.437768
+                      11      71.008299
+                      12      70.604712
+Figueroa High School  9       68.477804
+                      10      68.331586
+                      11      68.811001
+                      12      69.325282
+Ford High School      9       69.021609
+                      10      69.387006
+                      11      69.248862
+                      12      68.617811
+Griffin High School   9       72.789731
+                      10      71.093596
+                      11      71.692521
+                      12      71.469178
+Hernandez High School 9       68.586831
+                      10      68.867156
+                      11      69.154412
+                      12      68.985075
+Holden High School    9       70.543307
+                      10      75.105263
+                      11      71.640777
+                      12      73.409639
+Huang High School     9       69.081754
+                      10      68.533246
+                      11      69.431345
+                      12      68.639316
+Johnson High School   9       69.469286
+                      10      67.990220
+                      11      68.637730
+                      12      69.287393
+Pena High School      9       71.996364
+                      10      72.396000
+                      11      72.523438
+                      12      71.187845
+Rodriguez High School 9       71.940722
+                      10      71.779808
+                      11      72.364811
+                      12      72.154626
+Shelton High School   9       72.932075
+                      10      72.506696
+                      11      70.097087
+                      12      72.331536
+Thomas High School    9       69.234273
+                      10      70.057007
+                      11      69.657831
+                      12      69.369822
+Wilson High School    9       69.212361
+                      10      69.455446
+                      11      68.378965
+                      12      69.787472
+Wright High School    9       71.741176
+                      10      72.179012
+                      11      73.275862
+                      12      70.848238                            reading_score
+school_name           year               
+Bailey High School    9         70.901920
+                      10        70.848265
+                      11        70.317346
+                      12        72.195525
+Cabrera High School   9         71.172348
+                      10        71.328326
+                      11        71.201245
+                      12        71.856021
+Figueroa High School  9         70.261682
+                      10        67.677588
+                      11        69.152327
+                      12        69.082126
+Ford High School      9         69.615846
+                      10        68.988701
+                      11        70.735964
+                      12        68.849722
+Griffin High School   9         72.026895
+                      10        70.746305
+                      11        72.385042
+                      12        69.434932
+Hernandez High School 9         68.477569
+                      10        70.621842
+                      11        68.418199
+                      12        69.244136
+Holden High School    9         71.598425
+                      10        71.096491
+                      11        73.310680
+                      12        70.481928
+Huang High School     9         68.670616
+                      10        69.516297
+                      11        68.740638
+                      12        68.671795
+Johnson High School   9         68.719286
+                      10        69.295029
+                      11        69.969115
+                      12        67.992521
+Pena High School      9         70.949091
+                      10        72.324000
+                      11        71.703125
+                      12        71.513812
+Rodriguez High School 9         70.902921
+                      10        70.137500
+                      11        71.424453
+                      12        71.414449
+Shelton High School   9         70.715094
+                      10        69.879464
+                      11        71.150485
+                      12        69.070081
+Thomas High School    9         69.672451
+                      10        69.741093
+                      11        70.749398
+                      12        68.730769
+Wilson High School    9         68.683043
+                      10        68.412541
+                      11        68.796327
+                      12        69.888143
+Wright High School    9         71.823529
+                      10        71.386831
+                      11        70.475862
+                      12        69.821138 Average maths score Average reading score %passing maths % passing reading % overall passing
+Spending Ranges (Per Student)     
+<$585 71.36 70.72 88.84 84.43 76.72
+$585-630 72.07 71.03 91.52 84.43 79.88
+$630-645 69.85 69.84 84.69 84.43 71.00
+$645-680 68.88 69.05 81.57 84.43 66.76
+ Average maths score Average reading score %passing maths % passing reading % overall passing
+School Size Ranges     
+Small (<1000) 72.34 71.64 90.81 84.43 79.07
+Medium (1000-2000) 71.42 70.72 89.85 84.43 78.04
+Large (2000-5000) 69.75 69.58 84.25 84.43 70.29
+ Average maths score Average reading score %passing maths % passing reading % overall passing
+School Type     
+Government 69.83 69.68 84.46 84.43 70.70
+Independent 71.37 70.72 89.20 84.43 76.97
+
+
+Conclusions:
+Smaller size schools have the highest overall performance and overall independent schools have higher performance than in public schools.  
